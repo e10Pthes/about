@@ -1,0 +1,58 @@
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #F2D49B;
+  color: #0D0D0D;
+  font-family: 'Noto Serif', serif;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  overflow: hidden;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 4em;
+  cursor: pointer;
+  -webkit-transition: ease 0.4s;
+  transition: ease 0.4s;
+}
+
+h1:hover {
+  font-size: 4.1em;
+  color: #8C2703;
+}
+
+h2 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+h4 {
+  margin: 0;
+  font-weight: 400;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=splash.css.map */

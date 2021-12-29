@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="920.3540372297791" height="613.6000366210938" viewBox="0 0 100 66.67" class="svg" id="svg" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,0L100,0L100,66.67L0,66.67Z" style="fill: rgb(255, 255, 255);"/>
+  <g class="svg-group svg-group-clickable" data-id="1" data-type="Rectangle" transform="rotate(0.0000,50,11.109989166259766)">
+    <path d="M0,0L100,0L100,22.21997761L0,22.21997761Z" fill="rgb(203,73,11)"/>
+  </g>
+  <g class="svg-group svg-group-clickable" data-id="2" data-type="Rectangle" transform="rotate(0.0000,50,55.56001091003418)">
+    <path d="M0,44.45002239000001L100,44.45002239000001L100,66.67L0,66.67Z" fill="rgb(203,73,11)"/>
+  </g>
+  <g class="svg-group svg-group-clickable" transform="rotate(0.0000,12.5,33.334999084472656)" data-id="3" data-type="Shape">
+    <path d="M0.00,0.00L25.00,33.34L0.00,66.67" fill="rgb(0,0,0)"/>
+  </g>
+  <g class="svg-group svg-group-clickable" data-id="4" transform="rotate(0,41.63365364074707,33.71735858917236)">
+    <path d="M21.63365434547707,33.717359327172986Q26.63365434547707,28.383759327172985,31.63365434547707,33.717359327172986Q36.63365434547707,39.05095932717298,41.63365434547707,33.717359327172986Q46.63365434547707,28.383759327172985,51.633654345477076,33.717359327172986Q56.633654345477076,39.05095932717298,61.633654345477076,33.717359327172986" stroke="rgb(0,0,0)" stroke-width="4" fill="none"/>
+  </g>
+  <defs id="font-data">
+    <style>svg * { -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+.svg-group-clickable { cursor: pointer; }
+</style>
+  </defs>
+</svg>
