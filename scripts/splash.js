@@ -40,7 +40,7 @@ optionsBackground = {
     inkAmount: 20,
     frames: 100,
     frameAnimation: true,
-    image: '../images/flag.svg',
+    image: 'images/flag.svg',
     stretch: true,
     width: width,
     height: height
