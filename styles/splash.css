@@ -9,22 +9,22 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #F2D49B;
-  color: #0D0D0D;
-  font-family: 'Noto Serif', serif;
+  background-color: #f2d49b;
+  color: #0d0d0d;
+  font-family: "Noto Serif", serif;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   overflow: hidden;
   text-align: center;
 }
@@ -40,7 +40,7 @@ h1 {
 
 h1:hover {
   font-size: 4.1em;
-  color: #8C2703;
+  color: #8c2703;
 }
 
 h2 {
@@ -55,4 +55,27 @@ h4 {
   font-size: 1em;
   margin-bottom: 10px;
 }
+
+button {
+  background-color: #f2d49b;
+  color: #0d0d0d;
+  border: 2px solid #0d0d0d;
+  border-radius: 10px;
+  font-weight: normal;
+  padding: 8px 62px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8c2703;
+  color: #f2d49b;
+  border: 2px solid #0d0d0d;
+}
+
 /*# sourceMappingURL=splash.css.map */
